@@ -24,8 +24,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </p>
 
 
+![Felipe Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 Reach me out 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-michael-1%C2%B0-46580b17b/)](https://www.linkedin.com/in/felipe-michael-1%C2%B0-46580b17b/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com)](https://www.instagram.com) 
-
-![Felipe Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
