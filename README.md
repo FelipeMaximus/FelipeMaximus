@@ -24,6 +24,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </p>
 
 <div align="center" />
+
 ![Felipe Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMaximus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Reach me out 👇🏼
