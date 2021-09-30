@@ -1,7 +1,9 @@
-#Hey 👋
+# Hey 👋
 
 
-My name is Felipe Michael, I'm from Brazil 🇧🇷 I'm A Computer Enginner, that has been working as a Full Stack Java Specialist since 2015. 👨‍💻
+My name is Felipe Michael, I'm from Brazil 🇧🇷 
+
+I'm A Computer Enginner, that has been working as a Full Stack Java Specialist since 2015. 👨‍💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
