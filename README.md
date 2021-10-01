@@ -23,7 +23,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
  
 </p>
 
-### 🚀 "Skills" 🚀
+### 🚀 "Skills" 🧠
 
 ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
