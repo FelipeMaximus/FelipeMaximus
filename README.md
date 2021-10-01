@@ -7,7 +7,7 @@ I'm A Computer Enginner, that has been working as a Full Stack Java Specialist s
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-![Blog](https://img.shields.io/badge/FULLSTACK_SPECIALIST_JAVA-FELIPEMICHAEL-76B900?style=for-the-badge&logo=)
+![Blog](https://img.shields.io/badge/FULLSTACK_SPECIALIST_JAVA-UP-76B900?style=for-the-badge&logo=)
 
 ### 🌎 "Quanto mais eu sei, mais eu sou" 🧠
 
